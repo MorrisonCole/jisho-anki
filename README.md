@@ -15,6 +15,7 @@ Create Anki notes directly from the [Jisho](https://jisho.org/).
 ## Common Tasks
 
 * `npm run build` - packs into `build/` folder ready to load as an unpacked extension
+* `yarn upgrade-interactive` - upgrade dependencies
 
 ## Developing in Chrome
 1. Run `npm run build`

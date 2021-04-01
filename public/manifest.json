@@ -1,24 +1,21 @@
 {
+  "manifest_version": 3,
   "name": "Jisho <> Anki",
-  "version": "0.1.0",
   "description": "Create Anki notes when you look up words with Jisho",
-  "permissions": [
-    "activeTab",
-    "declarativeContent",
-    "storage"
-  ],
+  "version": "0.2.0",
+  "default_locale": "en",
   "icons": {
     "16": "images/anki16.png",
     "32": "images/anki32.png",
     "48": "images/anki48.png",
     "128": "images/anki128.png"
   },
+  "permissions": ["activeTab", "declarativeContent", "storage"],
   "content_scripts": [
     {
       "matches": ["https://jisho.org/*"],
       "js": ["static/js/override.js"],
       "css": ["static/css/override.css"]
     }
-  ],
-  "manifest_version": 2
+  ]
 }
