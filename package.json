@@ -1,5 +1,5 @@
 {
-  "name": "chrome-extension",
+  "name": "@morrisoncole/jisho-anki",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,7 @@
     "babel-loader": "8.0.5",
     "babel-plugin-named-asset-import": "^0.3.2",
     "babel-preset-react-app": "^9.0.0",
+    "bootstrap": "4.3.1",
     "camelcase": "^5.2.0",
     "case-sensitive-paths-webpack-plugin": "2.2.0",
     "css-loader": "2.1.1",
@@ -46,6 +47,7 @@
     "react-app-polyfill": "^1.0.1",
     "react-dev-utils": "^9.0.1",
     "react-dom": "^16.8.6",
+    "reactstrap": "8.0.1",
     "resolve": "1.10.0",
     "sass-loader": "7.1.0",
     "semver": "6.0.0",
@@ -56,15 +58,13 @@
     "webpack": "4.29.6",
     "webpack-dev-server": "3.2.1",
     "webpack-manifest-plugin": "2.0.4",
-    "workbox-webpack-plugin": "4.2.0",
-    "bootstrap": "4.3.1",
-    "reactstrap": "8.0.1"
+    "workbox-webpack-plugin": "4.2.0"
   },
   "scripts": {
-    "start": "node scripts/start.js",
-    "build": "node scripts/build.js",
+    "start": "yarn node scripts/start.js",
+    "build": "yarn node scripts/build.js",
     "build:watch": "watch \"npm run build\" public src",
-    "test": "node scripts/test.js --env=jsdom"
+    "test": "yarn node scripts/test.js --env=jsdom"
   },
   "eslintConfig": {
     "extends": "react-app"

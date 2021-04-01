@@ -1,6 +1,6 @@
 # Jisho <> Anki
 
-Create Anki notes when you look up words with Jisho
+Create Anki notes directly from the [Jisho](https://jisho.org/).
 
 # Set up
 
@@ -8,10 +8,9 @@ Create Anki notes when you look up words with Jisho
 2. Install this Chrome Extension
 3. Look up some words on Jisho!
 
-# Developer set up
+# Developer Set Up
 
-1. [Install NPM](https://nodejs.org/en/)
-2. (Optional) You'll probably want to use [WebStorm](https://www.jetbrains.com/webstorm/download/#section=windows).
+1. 
 
 ## Common Tasks
 
