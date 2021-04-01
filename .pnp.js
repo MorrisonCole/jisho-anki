@@ -72,9 +72,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-resolve", "npm:26.6.2"],
             ["jest-watch-typeahead", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:0.6.1"],
             ["joi", "npm:17.4.0"],
+            ["jquery", "npm:3.6.0"],
             ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:1.4.0"],
             ["optimize-css-assets-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.0.4"],
             ["pnp-webpack-plugin", "npm:1.6.4"],
+            ["popper.js", "npm:1.16.1"],
+            ["postcss", "npm:8.2.9"],
             ["postcss-flexbugs-fixes", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.0.2"],
             ["postcss-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.2.0"],
             ["postcss-normalize", "npm:9.0.0"],
@@ -4418,9 +4421,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-resolve", "npm:26.6.2"],
             ["jest-watch-typeahead", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:0.6.1"],
             ["joi", "npm:17.4.0"],
+            ["jquery", "npm:3.6.0"],
             ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:1.4.0"],
             ["optimize-css-assets-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.0.4"],
             ["pnp-webpack-plugin", "npm:1.6.4"],
+            ["popper.js", "npm:1.16.1"],
+            ["postcss", "npm:8.2.9"],
             ["postcss-flexbugs-fixes", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.0.2"],
             ["postcss-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.2.0"],
             ["postcss-normalize", "npm:9.0.0"],
@@ -6506,8 +6512,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["bootstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:4.6.0"],
             ["@types/jquery", null],
             ["@types/popper.js", null],
-            ["jquery", null],
-            ["popper.js", null]
+            ["jquery", "npm:3.6.0"],
+            ["popper.js", "npm:1.16.1"]
           ],
           "packagePeers": [
             "@types/jquery",
@@ -11623,6 +11629,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
+      ["jquery", [
+        ["npm:3.6.0", {
+          "packageLocation": "./.yarn/cache/jquery-npm-3.6.0-ca7872bdbb-a0a819022a.zip/node_modules/jquery/",
+          "packageDependencies": [
+            ["jquery", "npm:3.6.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
       ["js-tokens", [
         ["npm:4.0.0", {
           "packageLocation": "./.yarn/cache/js-tokens-npm-4.0.0-0ac852e9e2-1fc4e4667a.zip/node_modules/js-tokens/",
@@ -13879,7 +13894,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["postcss-flexbugs-fixes", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.0.2"],
             ["@types/postcss", null],
-            ["postcss", null]
+            ["postcss", "npm:8.2.9"]
           ],
           "packagePeers": [
             "@types/postcss",
@@ -13978,7 +13993,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/webpack", null],
             ["cosmiconfig", "npm:7.0.0"],
             ["klona", "npm:2.0.4"],
-            ["postcss", null],
+            ["postcss", "npm:8.2.9"],
             ["semver", "npm:7.3.5"],
             ["webpack", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.28.0"]
           ],
