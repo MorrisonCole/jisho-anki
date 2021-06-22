@@ -5330,9 +5330,9 @@ jest-resolve-dependencies@^27.0.4:
     jest-regex-util "^27.0.1"
     jest-snapshot "^27.0.4"
 
-jest-resolve@27.0.4, jest-resolve@^27.0.4:
-  version "27.0.4"
-  resolved "https://registry.yarnpkg.com/jest-resolve/-/jest-resolve-27.0.4.tgz#8a27bc3f2f00c8ea28f3bc99bbf6f468300a703d"
+jest-resolve@27.0.5, jest-resolve@^27.0.4:
+  version "27.0.5"
+  resolved "https://registry.yarnpkg.com/jest-resolve/-/jest-resolve-27.0.5.tgz#937535a5b481ad58e7121eaea46d1424a1e0c507"
   dependencies:
     "@jest/types" "^27.0.2"
     chalk "^4.0.0"
