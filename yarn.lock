@@ -2256,7 +2256,7 @@ __metadata:
     is-wsl: 2.2.0
     jest: 27.1.1
     jest-environment-jsdom-fourteen: 1.0.1
-    jest-resolve: 27.1.1
+    jest-resolve: 27.2.0
     jest-watch-typeahead: 0.6.4
     joi: 17.4.2
     jquery: 3.6.0
@@ -8450,6 +8450,24 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
+"jest-resolve@npm:27.2.0":
+  version: 27.2.0
+  resolution: "jest-resolve@npm:27.2.0"
+  dependencies:
+    "@jest/types": ^27.1.1
+    chalk: ^4.0.0
+    escalade: ^3.1.1
+    graceful-fs: ^4.2.4
+    jest-haste-map: ^27.2.0
+    jest-pnp-resolver: ^1.2.2
+    jest-util: ^27.2.0
+    jest-validate: ^27.2.0
+    resolve: ^1.20.0
+    slash: ^3.0.0
+  checksum: 382a063d795c2f38fe79a69a5ff9c9154bcb927079fa96de52d1e52f61f6817bfdb21194551cb424eb85ee96903681dd783d738912bc9a4c64f792b60b6f72e1
+  languageName: node
+  linkType: hard
+
 "jest-runner@npm:^27.1.1":
   version: 27.1.1
   resolution: "jest-runner@npm:27.1.1"
@@ -8637,6 +8655,20 @@ fsevents@^1.2.7:
     leven: ^3.1.0
     pretty-format: ^27.1.1
   checksum: 52c34333dce14e99a7dcd6e0d45f0b213804f141e086bda4d8b8379070cc1f7aa89d70aad932712277836c5f4e6877298362368de8a3883f6e5de65f88e8738d
+  languageName: node
+  linkType: hard
+
+"jest-validate@npm:^27.2.0":
+  version: 27.2.0
+  resolution: "jest-validate@npm:27.2.0"
+  dependencies:
+    "@jest/types": ^27.1.1
+    camelcase: ^6.2.0
+    chalk: ^4.0.0
+    jest-get-type: ^27.0.6
+    leven: ^3.1.0
+    pretty-format: ^27.2.0
+  checksum: 5bb02274dcf90bbc22a62d420cc3dd9431d787446b043ae3c09e6698d0538d0916403bc7423cb81519320d897bbbcdfb06fc967d04a57c81eab3c71b01cd7a97
   languageName: node
   linkType: hard
 
@@ -11435,6 +11467,18 @@ fsevents@^1.2.7:
     ansi-styles: ^5.0.0
     react-is: ^17.0.1
   checksum: 5e88ed87b165b552285187107e9f1bfb8e593a9f8653ceb7b3abf76611eece789c41292786856339191d40c6e306042b13c6553c38edc851c47244119a5bcbf1
+  languageName: node
+  linkType: hard
+
+"pretty-format@npm:^27.2.0":
+  version: 27.2.0
+  resolution: "pretty-format@npm:27.2.0"
+  dependencies:
+    "@jest/types": ^27.1.1
+    ansi-regex: ^5.0.0
+    ansi-styles: ^5.0.0
+    react-is: ^17.0.1
+  checksum: 182041979718b7843f4679b5b79a6bb5299b5fa96034e53d6c5e5f7b0156806bcf86648db57e3f8dfdb35539380765b2487ec4d26517b8722fd193698d12f579
   languageName: node
   linkType: hard
 

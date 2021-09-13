@@ -67,7 +67,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["is-wsl", "npm:2.2.0"],
             ["jest", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:27.1.1"],
             ["jest-environment-jsdom-fourteen", "npm:1.0.1"],
-            ["jest-resolve", "npm:27.1.1"],
+            ["jest-resolve", "npm:27.2.0"],
             ["jest-watch-typeahead", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:0.6.4"],
             ["joi", "npm:17.4.2"],
             ["jquery", "npm:3.6.0"],
@@ -4664,7 +4664,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["is-wsl", "npm:2.2.0"],
             ["jest", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:27.1.1"],
             ["jest-environment-jsdom-fourteen", "npm:1.0.1"],
-            ["jest-resolve", "npm:27.1.1"],
+            ["jest-resolve", "npm:27.2.0"],
             ["jest-watch-typeahead", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:0.6.4"],
             ["joi", "npm:17.4.2"],
             ["jquery", "npm:3.6.0"],
@@ -12008,6 +12008,19 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             "jest-resolve"
           ],
           "linkType": "HARD",
+        }],
+        ["virtual:78ae2085d633bd48df851f95a7a6fb1bdbaaf4ec94e8f9aba2bea1f19f242a5f57fe0175053159f69a2072cd5b739cb11bd7c1dc2be385fb1ccf2769c64473c4#npm:1.2.2", {
+          "packageLocation": "./.yarn/__virtual__/jest-pnp-resolver-virtual-b3e2ee7917/0/cache/jest-pnp-resolver-npm-1.2.2-da20f8bdfe-bd85dcc0e7.zip/node_modules/jest-pnp-resolver/",
+          "packageDependencies": [
+            ["jest-pnp-resolver", "virtual:78ae2085d633bd48df851f95a7a6fb1bdbaaf4ec94e8f9aba2bea1f19f242a5f57fe0175053159f69a2072cd5b739cb11bd7c1dc2be385fb1ccf2769c64473c4#npm:1.2.2"],
+            ["@types/jest-resolve", null],
+            ["jest-resolve", "npm:27.2.0"]
+          ],
+          "packagePeers": [
+            "@types/jest-resolve",
+            "jest-resolve"
+          ],
+          "linkType": "HARD",
         }]
       ]],
       ["jest-regex-util", [
@@ -12046,6 +12059,23 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-pnp-resolver", "virtual:3ae32726bfc1e4162c7fd3df89a9f2ad4ee6b22d0cb84a45813303e13434f8a9fde9320c4a48125b8358d299dcac84718bee267d211f5e3016c27a492dadbf3d#npm:1.2.2"],
             ["jest-util", "npm:27.1.1"],
             ["jest-validate", "npm:27.1.1"],
+            ["resolve", "patch:resolve@npm%3A1.20.0#~builtin<compat/resolve>::version=1.20.0&hash=00b1ff"],
+            ["slash", "npm:3.0.0"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:27.2.0", {
+          "packageLocation": "./.yarn/cache/jest-resolve-npm-27.2.0-78ae2085d6-382a063d79.zip/node_modules/jest-resolve/",
+          "packageDependencies": [
+            ["jest-resolve", "npm:27.2.0"],
+            ["@jest/types", "npm:27.1.1"],
+            ["chalk", "npm:4.1.1"],
+            ["escalade", "npm:3.1.1"],
+            ["graceful-fs", "npm:4.2.8"],
+            ["jest-haste-map", "npm:27.2.0"],
+            ["jest-pnp-resolver", "virtual:78ae2085d633bd48df851f95a7a6fb1bdbaaf4ec94e8f9aba2bea1f19f242a5f57fe0175053159f69a2072cd5b739cb11bd7c1dc2be385fb1ccf2769c64473c4#npm:1.2.2"],
+            ["jest-util", "npm:27.2.0"],
+            ["jest-validate", "npm:27.2.0"],
             ["resolve", "patch:resolve@npm%3A1.20.0#~builtin<compat/resolve>::version=1.20.0&hash=00b1ff"],
             ["slash", "npm:3.0.0"]
           ],
@@ -12253,6 +12283,19 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-get-type", "npm:27.0.6"],
             ["leven", "npm:3.1.0"],
             ["pretty-format", "npm:27.1.1"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:27.2.0", {
+          "packageLocation": "./.yarn/cache/jest-validate-npm-27.2.0-a0ef934431-5bb02274dc.zip/node_modules/jest-validate/",
+          "packageDependencies": [
+            ["jest-validate", "npm:27.2.0"],
+            ["@jest/types", "npm:27.1.1"],
+            ["camelcase", "npm:6.2.0"],
+            ["chalk", "npm:4.1.1"],
+            ["jest-get-type", "npm:27.0.6"],
+            ["leven", "npm:3.1.0"],
+            ["pretty-format", "npm:27.2.0"]
           ],
           "linkType": "HARD",
         }]
@@ -15738,6 +15781,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/pretty-format-npm-27.1.1-2701039df3-5e88ed87b1.zip/node_modules/pretty-format/",
           "packageDependencies": [
             ["pretty-format", "npm:27.1.1"],
+            ["@jest/types", "npm:27.1.1"],
+            ["ansi-regex", "npm:5.0.0"],
+            ["ansi-styles", "npm:5.2.0"],
+            ["react-is", "npm:17.0.2"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:27.2.0", {
+          "packageLocation": "./.yarn/cache/pretty-format-npm-27.2.0-cb0d3854ef-1820419797.zip/node_modules/pretty-format/",
+          "packageDependencies": [
+            ["pretty-format", "npm:27.2.0"],
             ["@jest/types", "npm:27.1.1"],
             ["ansi-regex", "npm:5.0.0"],
             ["ansi-styles", "npm:5.2.0"],
