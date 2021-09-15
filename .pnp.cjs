@@ -78,7 +78,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss", "npm:8.3.6"],
             ["postcss-flexbugs-fixes", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.0.2"],
             ["postcss-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.1.1"],
-            ["postcss-normalize", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:10.0.0"],
+            ["postcss-normalize", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:10.0.1"],
             ["postcss-preset-env", "npm:6.7.0"],
             ["postcss-safe-parser", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.0"],
             ["react", "npm:17.0.2"],
@@ -4675,7 +4675,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss", "npm:8.3.6"],
             ["postcss-flexbugs-fixes", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.0.2"],
             ["postcss-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.1.1"],
-            ["postcss-normalize", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:10.0.0"],
+            ["postcss-normalize", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:10.0.1"],
             ["postcss-preset-env", "npm:6.7.0"],
             ["postcss-safe-parser", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.0"],
             ["react", "npm:17.0.2"],
@@ -14522,10 +14522,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:c62483a312c154f73aeb41d84f5e673b87eea87caa0d874f4ff7c5ccc4461cea785275f6722f2050415c32e06181da5252053aa6b3f6cffabe17af73ba2471d1#npm:4.0.0", {
-          "packageLocation": "./.yarn/__virtual__/postcss-browser-comments-virtual-4206483d10/0/cache/postcss-browser-comments-npm-4.0.0-ad08f76065-9b8e709483.zip/node_modules/postcss-browser-comments/",
+        ["virtual:4205a8e90899d6b3f4d2f3ffe3fe39068f6d0aa925441dfc0e72cac86160407c16aedf8def0467684110535652eefd9ccc8a46ed3a1c8a41162ad18e928fca6f#npm:4.0.0", {
+          "packageLocation": "./.yarn/__virtual__/postcss-browser-comments-virtual-518f519de2/0/cache/postcss-browser-comments-npm-4.0.0-ad08f76065-9b8e709483.zip/node_modules/postcss-browser-comments/",
           "packageDependencies": [
-            ["postcss-browser-comments", "virtual:c62483a312c154f73aeb41d84f5e673b87eea87caa0d874f4ff7c5ccc4461cea785275f6722f2050415c32e06181da5252053aa6b3f6cffabe17af73ba2471d1#npm:4.0.0"],
+            ["postcss-browser-comments", "virtual:4205a8e90899d6b3f4d2f3ffe3fe39068f6d0aa925441dfc0e72cac86160407c16aedf8def0467684110535652eefd9ccc8a46ed3a1c8a41162ad18e928fca6f#npm:4.0.0"],
             ["@types/browserslist", null],
             ["@types/postcss", null],
             ["browserslist", "npm:4.17.0"],
@@ -15222,23 +15222,23 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["postcss-normalize", [
-        ["npm:10.0.0", {
-          "packageLocation": "./.yarn/cache/postcss-normalize-npm-10.0.0-37e2e3423f-b7591025c6.zip/node_modules/postcss-normalize/",
+        ["npm:10.0.1", {
+          "packageLocation": "./.yarn/cache/postcss-normalize-npm-10.0.1-f2f3d55340-af67ade84e.zip/node_modules/postcss-normalize/",
           "packageDependencies": [
-            ["postcss-normalize", "npm:10.0.0"]
+            ["postcss-normalize", "npm:10.0.1"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:10.0.0", {
-          "packageLocation": "./.yarn/__virtual__/postcss-normalize-virtual-c62483a312/0/cache/postcss-normalize-npm-10.0.0-37e2e3423f-b7591025c6.zip/node_modules/postcss-normalize/",
+        ["virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:10.0.1", {
+          "packageLocation": "./.yarn/__virtual__/postcss-normalize-virtual-4205a8e908/0/cache/postcss-normalize-npm-10.0.1-f2f3d55340-af67ade84e.zip/node_modules/postcss-normalize/",
           "packageDependencies": [
-            ["postcss-normalize", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:10.0.0"],
+            ["postcss-normalize", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:10.0.1"],
             ["@csstools/normalize.css", "npm:11.0.1"],
             ["@types/browserslist", null],
             ["@types/postcss", null],
             ["browserslist", "npm:4.17.0"],
             ["postcss", "npm:8.3.6"],
-            ["postcss-browser-comments", "virtual:c62483a312c154f73aeb41d84f5e673b87eea87caa0d874f4ff7c5ccc4461cea785275f6722f2050415c32e06181da5252053aa6b3f6cffabe17af73ba2471d1#npm:4.0.0"],
+            ["postcss-browser-comments", "virtual:4205a8e90899d6b3f4d2f3ffe3fe39068f6d0aa925441dfc0e72cac86160407c16aedf8def0467684110535652eefd9ccc8a46ed3a1c8a41162ad18e928fca6f#npm:4.0.0"],
             ["sanitize.css", "npm:12.0.1"]
           ],
           "packagePeers": [
