@@ -2220,19 +2220,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@jest/types@npm:^27.2.3":
-  version: 27.2.3
-  resolution: "@jest/types@npm:27.2.3"
-  dependencies:
-    "@types/istanbul-lib-coverage": ^2.0.0
-    "@types/istanbul-reports": ^3.0.0
-    "@types/node": "*"
-    "@types/yargs": ^16.0.0
-    chalk: ^4.0.0
-  checksum: 578f6fe6a6b33558e6ac8f5fbca6c91448d04591ecac15d8204f86554b1fdaa4e78bd073d245622f030c5305a3cbf54e02c610c508fc857fb9a0f9cd643b24c7
-  languageName: node
-  linkType: hard
-
 "@jest/types@npm:^27.2.4":
   version: 27.2.4
   resolution: "@jest/types@npm:27.2.4"
@@ -2261,7 +2248,7 @@ __metadata:
     babel-plugin-named-asset-import: 0.3.7
     babel-preset-react-app: 10.0.0
     bootstrap: 5.1.1
-    browserslist: 4.17.1
+    browserslist: 4.17.2
     camelcase: 6.2.0
     case-sensitive-paths-webpack-plugin: 2.4.0
     css-loader: 6.3.0
@@ -4142,18 +4129,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"browserslist@npm:4.17.1":
-  version: 4.17.1
-  resolution: "browserslist@npm:4.17.1"
+"browserslist@npm:4.17.2":
+  version: 4.17.2
+  resolution: "browserslist@npm:4.17.2"
   dependencies:
-    caniuse-lite: ^1.0.30001259
-    electron-to-chromium: ^1.3.846
+    caniuse-lite: ^1.0.30001261
+    electron-to-chromium: ^1.3.854
     escalade: ^3.1.1
-    nanocolors: ^0.1.5
+    nanocolors: ^0.2.12
     node-releases: ^1.1.76
   bin:
     browserslist: cli.js
-  checksum: 7935fad6ad1ec6986e93854ea11c344b4fb0a8665a1501cf0a91cc832fd6a280ea147d2684b05520b70785c9ec88e746d6f5b0f8f0b70fc501b1684af5fc56dc
+  checksum: 9102023e8a8f541110c2905854d8398245811dfa6a02c3c94a0862c402f11fd42900cd595cb8494e5ee1104120b40e4721108219931bdbb4c59855f138e684da
   languageName: node
   linkType: hard
 
@@ -4319,10 +4306,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"caniuse-lite@npm:^1.0.30001259":
-  version: 1.0.30001259
-  resolution: "caniuse-lite@npm:1.0.30001259"
-  checksum: 4b0423693616a62d3a9beaa35ab5a414a9e4398df7361915ca2b6f24142f1f55909e014d5f0c14c034c0fd5084524116ab46bcdfae5c3b8620f11f2822a1c4ba
+"caniuse-lite@npm:^1.0.30001261":
+  version: 1.0.30001261
+  resolution: "caniuse-lite@npm:1.0.30001261"
+  checksum: d894662312ecbdd772f0a258c4a45cac93605247b127b25649052353e0b981abfd0b445f469650943b612adc236fd510ae61c1293f3e77c68af7411d1b66574a
   languageName: node
   linkType: hard
 
@@ -5605,10 +5592,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-to-chromium@npm:^1.3.846":
-  version: 1.3.846
-  resolution: "electron-to-chromium@npm:1.3.846"
-  checksum: 823cc3ffeb4a8c0ca8ce50df8730780ee0dbba1cbaa25e0afea7f68b02f0fd142a8ee93a45ec506a84f5aa97d908fd3906b2506dc74a8c2ebe96ce0ea416d0aa
+"electron-to-chromium@npm:^1.3.854":
+  version: 1.3.854
+  resolution: "electron-to-chromium@npm:1.3.854"
+  checksum: c9070a49e6ee26d6088fe89bff10b2e0c31adb22f21f8a854ce7399346fbcdba36bd8de84d4adb5514facc43745e7c8d5992aae6d172263950e4736c3965f938
   languageName: node
   linkType: hard
 
@@ -8423,30 +8410,6 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"jest-haste-map@npm:^27.2.3":
-  version: 27.2.3
-  resolution: "jest-haste-map@npm:27.2.3"
-  dependencies:
-    "@jest/types": ^27.2.3
-    "@types/graceful-fs": ^4.1.2
-    "@types/node": "*"
-    anymatch: ^3.0.3
-    fb-watchman: ^2.0.0
-    fsevents: ^2.3.2
-    graceful-fs: ^4.2.4
-    jest-regex-util: ^27.0.6
-    jest-serializer: ^27.0.6
-    jest-util: ^27.2.3
-    jest-worker: ^27.2.3
-    micromatch: ^4.0.4
-    walker: ^1.0.7
-  dependenciesMeta:
-    fsevents:
-      optional: true
-  checksum: 364ded651ec2a35da5597aca69d0fb0ee7a88542e98801767f6382bc11695685381a9586da3d5d5b24944eec6f5e8f8a9d524bfa2f42841ec559fabcc640297e
-  languageName: node
-  linkType: hard
-
 "jest-haste-map@npm:^27.2.4":
   version: 27.2.4
   resolution: "jest-haste-map@npm:27.2.4"
@@ -8830,20 +8793,6 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"jest-util@npm:^27.2.3":
-  version: 27.2.3
-  resolution: "jest-util@npm:27.2.3"
-  dependencies:
-    "@jest/types": ^27.2.3
-    "@types/node": "*"
-    chalk: ^4.0.0
-    graceful-fs: ^4.2.4
-    is-ci: ^3.0.0
-    picomatch: ^2.2.3
-  checksum: ab8722d227fe5ee07489095ab8ce311103fbf40cc348f161796ccdf1909aa3d0d3bed49412b1b45881e4c911fd5130f4046bc7730255ba3323410688087f905c
-  languageName: node
-  linkType: hard
-
 "jest-util@npm:^27.2.4":
   version: 27.2.4
   resolution: "jest-util@npm:27.2.4"
@@ -8973,17 +8922,6 @@ fsevents@^1.2.7:
     merge-stream: ^2.0.0
     supports-color: ^8.0.0
   checksum: 2189649c8ce67c9e3f09f20943872a24486546a81216d698986763708610232c6e942de41c10cdefee1a6abfcc7a64208de88d5a8c5cff55cb52f5da16688733
-  languageName: node
-  linkType: hard
-
-"jest-worker@npm:^27.2.3":
-  version: 27.2.3
-  resolution: "jest-worker@npm:27.2.3"
-  dependencies:
-    "@types/node": "*"
-    merge-stream: ^2.0.0
-    supports-color: ^8.0.0
-  checksum: a9d4fe2130e88656643bba663be8b12fa815dc312c7c44c81bd651f6a5dc5ea5211551699b60a94315bf002b77f6b5f5749badb63002d93b494749c19c9bdeab
   languageName: node
   linkType: hard
 
@@ -9974,10 +9912,10 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"nanocolors@npm:^0.1.5":
-  version: 0.1.5
-  resolution: "nanocolors@npm:0.1.5"
-  checksum: 032c12a5d8d901a3a59679db1f906d258080352ce6a5ea7a90df033fe969d1257f63000bc37c9562d068ba0c980f629868e9698e69511c9761080d030a6bc7b1
+"nanocolors@npm:^0.2.12":
+  version: 0.2.12
+  resolution: "nanocolors@npm:0.2.12"
+  checksum: a34a63dcca29eede3db41afd1421f130423fc99e73f6c89166f57815bbf0441f02a6112651b068acfd309707215f48eec15dd38e790a8225d6762503a7c175c6
   languageName: node
   linkType: hard
 
