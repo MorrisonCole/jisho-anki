@@ -46,7 +46,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-named-asset-import", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:0.3.7"],
             ["babel-preset-react-app", "npm:10.0.0"],
             ["bootstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.1.1"],
-            ["browserslist", "npm:4.17.2"],
+            ["browserslist", "npm:4.17.3"],
             ["camelcase", "npm:6.2.0"],
             ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],
             ["css-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.3.0"],
@@ -4655,7 +4655,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-named-asset-import", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:0.3.7"],
             ["babel-preset-react-app", "npm:10.0.0"],
             ["bootstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.1.1"],
-            ["browserslist", "npm:4.17.2"],
+            ["browserslist", "npm:4.17.3"],
             ["camelcase", "npm:6.2.0"],
             ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],
             ["css-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.3.0"],
@@ -7028,15 +7028,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:4.17.2", {
-          "packageLocation": "./.yarn/cache/browserslist-npm-4.17.2-6d9b818139-9102023e8a.zip/node_modules/browserslist/",
+        ["npm:4.17.3", {
+          "packageLocation": "./.yarn/cache/browserslist-npm-4.17.3-69383ba164-9295bdff6e.zip/node_modules/browserslist/",
           "packageDependencies": [
-            ["browserslist", "npm:4.17.2"],
-            ["caniuse-lite", "npm:1.0.30001261"],
-            ["electron-to-chromium", "npm:1.3.854"],
+            ["browserslist", "npm:4.17.3"],
+            ["caniuse-lite", "npm:1.0.30001264"],
+            ["electron-to-chromium", "npm:1.3.857"],
             ["escalade", "npm:3.1.1"],
-            ["nanocolors", "npm:0.2.12"],
-            ["node-releases", "npm:1.1.76"]
+            ["node-releases", "npm:1.1.77"],
+            ["picocolors", "npm:0.2.1"]
           ],
           "linkType": "HARD",
         }]
@@ -7207,10 +7207,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:1.0.30001261", {
-          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001261-0022df4824-d894662312.zip/node_modules/caniuse-lite/",
+        ["npm:1.0.30001264", {
+          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001264-606c36da52-6ef70711a5.zip/node_modules/caniuse-lite/",
           "packageDependencies": [
-            ["caniuse-lite", "npm:1.0.30001261"]
+            ["caniuse-lite", "npm:1.0.30001264"]
           ],
           "linkType": "HARD",
         }]
@@ -8713,10 +8713,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:1.3.854", {
-          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.3.854-8b0170c223-c9070a49e6.zip/node_modules/electron-to-chromium/",
+        ["npm:1.3.857", {
+          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.3.857-3be41184dd-59d3dcf7ec.zip/node_modules/electron-to-chromium/",
           "packageDependencies": [
-            ["electron-to-chromium", "npm:1.3.854"]
+            ["electron-to-chromium", "npm:1.3.857"]
           ],
           "linkType": "HARD",
         }]
@@ -13624,15 +13624,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
-      ["nanocolors", [
-        ["npm:0.2.12", {
-          "packageLocation": "./.yarn/cache/nanocolors-npm-0.2.12-f605aa543e-a34a63dcca.zip/node_modules/nanocolors/",
-          "packageDependencies": [
-            ["nanocolors", "npm:0.2.12"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
       ["nanoid", [
         ["npm:3.1.23", {
           "packageLocation": "./.yarn/cache/nanoid-npm-3.1.23-5f6acb650d-8fa8dc3283.zip/node_modules/nanoid/",
@@ -13763,10 +13754,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:1.1.76", {
-          "packageLocation": "./.yarn/cache/node-releases-npm-1.1.76-c9673219c5-10174cb880.zip/node_modules/node-releases/",
+        ["npm:1.1.77", {
+          "packageLocation": "./.yarn/cache/node-releases-npm-1.1.77-808fdb4df0-eb2fcb4531.zip/node_modules/node-releases/",
           "packageDependencies": [
-            ["node-releases", "npm:1.1.76"]
+            ["node-releases", "npm:1.1.77"]
           ],
           "linkType": "HARD",
         }]
@@ -14502,6 +14493,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
+      ["picocolors", [
+        ["npm:0.2.1", {
+          "packageLocation": "./.yarn/cache/picocolors-npm-0.2.1-fa0e648c44-3b0f441f00.zip/node_modules/picocolors/",
+          "packageDependencies": [
+            ["picocolors", "npm:0.2.1"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
       ["picomatch", [
         ["npm:2.2.2", {
           "packageLocation": "./.yarn/cache/picomatch-npm-2.2.2-1ce736a913-897a589f94.zip/node_modules/picomatch/",
@@ -14676,7 +14676,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss-browser-comments", "virtual:4205a8e90899d6b3f4d2f3ffe3fe39068f6d0aa925441dfc0e72cac86160407c16aedf8def0467684110535652eefd9ccc8a46ed3a1c8a41162ad18e928fca6f#npm:4.0.0"],
             ["@types/browserslist", null],
             ["@types/postcss", null],
-            ["browserslist", "npm:4.17.2"],
+            ["browserslist", "npm:4.17.3"],
             ["postcss", "npm:8.3.6"]
           ],
           "packagePeers": [
@@ -15384,7 +15384,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@csstools/normalize.css", "npm:11.0.1"],
             ["@types/browserslist", null],
             ["@types/postcss", null],
-            ["browserslist", "npm:4.17.2"],
+            ["browserslist", "npm:4.17.3"],
             ["postcss", "npm:8.3.6"],
             ["postcss-browser-comments", "virtual:4205a8e90899d6b3f4d2f3ffe3fe39068f6d0aa925441dfc0e72cac86160407c16aedf8def0467684110535652eefd9ccc8a46ed3a1c8a41162ad18e928fca6f#npm:4.0.0"],
             ["sanitize.css", "npm:12.0.1"]
