@@ -2295,7 +2295,7 @@ __metadata:
     terser-webpack-plugin: 5.2.4
     ts-pnp: 1.2.0
     url-loader: 4.1.1
-    webpack: 5.56.1
+    webpack: 5.57.0
     webpack-dev-server: 4.3.1
     webpack-manifest-plugin: 4.0.2
     workbox-webpack-plugin: 6.3.0
@@ -14402,9 +14402,9 @@ resolve@^2.0.0-next.3:
   languageName: node
   linkType: hard
 
-"webpack@npm:5.56.1":
-  version: 5.56.1
-  resolution: "webpack@npm:5.56.1"
+"webpack@npm:5.57.0":
+  version: 5.57.0
+  resolution: "webpack@npm:5.57.0"
   dependencies:
     "@types/eslint-scope": ^3.7.0
     "@types/estree": ^0.0.50
@@ -14435,7 +14435,7 @@ resolve@^2.0.0-next.3:
       optional: true
   bin:
     webpack: bin/webpack.js
-  checksum: e5ead673155a5e9667c8ae5413af18739335b067e03ae4e6daefbf9bf648321267abc706d3c756b17c9224c5e31762c0de212e700cca34ab4ee1e069e7806b8a
+  checksum: 06baeca4399326cbb08aa5503b52ff06dbc1311a170597873a11d5b34e362409666f618515ad0c4daf28d9bf0fe5ec43eeffb56273ed550b99d88eb975ab3e21
   languageName: node
   linkType: hard
 
