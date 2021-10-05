@@ -45,7 +45,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:8.2.2"],
             ["babel-plugin-named-asset-import", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:0.3.7"],
             ["babel-preset-react-app", "npm:10.0.0"],
-            ["bootstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.1.1"],
+            ["bootstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.1.2"],
             ["browserslist", "npm:4.17.3"],
             ["camelcase", "npm:6.2.0"],
             ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],
@@ -4654,7 +4654,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:8.2.2"],
             ["babel-plugin-named-asset-import", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:0.3.7"],
             ["babel-preset-react-app", "npm:10.0.0"],
-            ["bootstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.1.1"],
+            ["bootstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.1.2"],
             ["browserslist", "npm:4.17.3"],
             ["camelcase", "npm:6.2.0"],
             ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],
@@ -6936,17 +6936,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["bootstrap", [
-        ["npm:5.1.1", {
-          "packageLocation": "./.yarn/cache/bootstrap-npm-5.1.1-1ab830555b-6429293514.zip/node_modules/bootstrap/",
+        ["npm:5.1.2", {
+          "packageLocation": "./.yarn/cache/bootstrap-npm-5.1.2-6f0bbdd5de-c1b8f02ce3.zip/node_modules/bootstrap/",
           "packageDependencies": [
-            ["bootstrap", "npm:5.1.1"]
+            ["bootstrap", "npm:5.1.2"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.1.1", {
-          "packageLocation": "./.yarn/__virtual__/bootstrap-virtual-ddb5990887/0/cache/bootstrap-npm-5.1.1-1ab830555b-6429293514.zip/node_modules/bootstrap/",
+        ["virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.1.2", {
+          "packageLocation": "./.yarn/__virtual__/bootstrap-virtual-8e6d14083c/0/cache/bootstrap-npm-5.1.2-6f0bbdd5de-c1b8f02ce3.zip/node_modules/bootstrap/",
           "packageDependencies": [
-            ["bootstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.1.1"],
+            ["bootstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.1.2"],
             ["@popperjs/core", null],
             ["@types/popperjs__core", null]
           ],
