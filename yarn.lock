@@ -2361,7 +2361,7 @@ __metadata:
     terser-webpack-plugin: 5.2.4
     ts-pnp: 1.2.0
     url-loader: 4.1.1
-    webpack: 5.58.2
+    webpack: 5.59.0
     webpack-dev-server: 4.3.1
     webpack-manifest-plugin: 4.0.2
     workbox-webpack-plugin: 6.3.0
@@ -8588,30 +8588,6 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"jest-haste-map@npm:^27.3.0":
-  version: 27.3.0
-  resolution: "jest-haste-map@npm:27.3.0"
-  dependencies:
-    "@jest/types": ^27.2.5
-    "@types/graceful-fs": ^4.1.2
-    "@types/node": "*"
-    anymatch: ^3.0.3
-    fb-watchman: ^2.0.0
-    fsevents: ^2.3.2
-    graceful-fs: ^4.2.4
-    jest-regex-util: ^27.0.6
-    jest-serializer: ^27.0.6
-    jest-util: ^27.3.0
-    jest-worker: ^27.3.0
-    micromatch: ^4.0.4
-    walker: ^1.0.7
-  dependenciesMeta:
-    fsevents:
-      optional: true
-  checksum: d48db66975560ce354da942a7565ed961caf0067c4731d665fd84c5465819572b5295a2c5969fc25f8ec8f448dac89faea54a4e2fc29158495c1ccd14e554ff4
-  languageName: node
-  linkType: hard
-
 "jest-haste-map@npm:^27.3.1":
   version: 27.3.1
   resolution: "jest-haste-map@npm:27.3.1"
@@ -8995,20 +8971,6 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"jest-util@npm:^27.3.0":
-  version: 27.3.0
-  resolution: "jest-util@npm:27.3.0"
-  dependencies:
-    "@jest/types": ^27.2.5
-    "@types/node": "*"
-    chalk: ^4.0.0
-    graceful-fs: ^4.2.4
-    is-ci: ^3.0.0
-    picomatch: ^2.2.3
-  checksum: cec3bd7454c3ef36db4be5451f52fac6899eaa0f04de9b7754e5ceaee4948723b51f53cce880f9d0fdfadf81bec251fe302b830bd838338f2471ef572d006ea2
-  languageName: node
-  linkType: hard
-
 "jest-util@npm:^27.3.1":
   version: 27.3.1
   resolution: "jest-util@npm:27.3.1"
@@ -9138,17 +9100,6 @@ fsevents@^1.2.7:
     merge-stream: ^2.0.0
     supports-color: ^8.0.0
   checksum: 2189649c8ce67c9e3f09f20943872a24486546a81216d698986763708610232c6e942de41c10cdefee1a6abfcc7a64208de88d5a8c5cff55cb52f5da16688733
-  languageName: node
-  linkType: hard
-
-"jest-worker@npm:^27.3.0":
-  version: 27.3.0
-  resolution: "jest-worker@npm:27.3.0"
-  dependencies:
-    "@types/node": "*"
-    merge-stream: ^2.0.0
-    supports-color: ^8.0.0
-  checksum: 1fd375f22a2a70606b69ec828381aac5f9d751b697a72e4922d2898b5bf52700dc3b6b618a1b850ea44ddb7adf785e0d20df1c917f477b58a789c193dec5515b
   languageName: node
   linkType: hard
 
@@ -14587,9 +14538,9 @@ resolve@^2.0.0-next.3:
   languageName: node
   linkType: hard
 
-"webpack@npm:5.58.2":
-  version: 5.58.2
-  resolution: "webpack@npm:5.58.2"
+"webpack@npm:5.59.0":
+  version: 5.59.0
+  resolution: "webpack@npm:5.59.0"
   dependencies:
     "@types/eslint-scope": ^3.7.0
     "@types/estree": ^0.0.50
@@ -14620,7 +14571,7 @@ resolve@^2.0.0-next.3:
       optional: true
   bin:
     webpack: bin/webpack.js
-  checksum: 775da3b72c181204ca3f5200c144dde874fec8e059ba6c08dc9596e33e8408fd55c9c21ab5996124fe4b65963a54817bd4dfbb79fb89f307c9bf6054d69eaef5
+  checksum: 3ccda49eafb893d61beeb3af8dc1e9c4231c4a8ddc74ec105004d22b1062193c996d789a3e78c72565863441820b3f0d03f35175685085e7a3e4bb4190f2d71d
   languageName: node
   linkType: hard
 
