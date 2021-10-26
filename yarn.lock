@@ -2323,7 +2323,7 @@ __metadata:
     eslint: 8.1.0
     eslint-config-react-app: 6.0.0
     eslint-loader: 4.0.2
-    eslint-plugin-flowtype: 8.0.0
+    eslint-plugin-flowtype: 8.0.1
     eslint-plugin-import: 2.25.2
     eslint-plugin-jsx-a11y: 6.4.1
     eslint-plugin-react: 7.25.3
@@ -6052,15 +6052,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-flowtype@npm:8.0.0":
-  version: 8.0.0
-  resolution: "eslint-plugin-flowtype@npm:8.0.0"
+"eslint-plugin-flowtype@npm:8.0.1":
+  version: 8.0.1
+  resolution: "eslint-plugin-flowtype@npm:8.0.1"
   dependencies:
     lodash: ^4.17.21
     string-natural-compare: ^3.0.1
   peerDependencies:
     eslint: ^8.1.0
-  checksum: 1c9f7dfe123401d0faa436c240fd719a7fb9bca952f5f3f5d4b7caafef1f02f64bd92f69f672507e93c1e5ba69b60a5526493aa862d6021cc36fc7798c8c4532
+  checksum: ad3c2c1470708794edb2abffceb9094a1bcd20787aeae0fcf051b0592b847aa6a07eb755d9e1e0dc64ea07602a4fc12ddc042838b52820974cca1b5bc0ddf1ff
   languageName: node
   linkType: hard
 
