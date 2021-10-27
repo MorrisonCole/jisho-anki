@@ -2353,7 +2353,7 @@ __metadata:
     react-app-polyfill: 2.0.0
     react-dev-utils: 11.0.4
     react-dom: 17.0.2
-    reactstrap: 8.10.0
+    reactstrap: 8.10.1
     resolve: 1.20.0
     sass-loader: 12.2.0
     semver: 7.3.5
@@ -12152,18 +12152,18 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"react-transition-group@npm:^2.3.1":
-  version: 2.9.0
-  resolution: "react-transition-group@npm:2.9.0"
+"react-transition-group@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "react-transition-group@npm:3.0.0"
   dependencies:
     dom-helpers: ^3.4.0
     loose-envify: ^1.4.0
     prop-types: ^15.6.2
     react-lifecycles-compat: ^3.0.4
   peerDependencies:
-    react: ">=15.0.0"
-    react-dom: ">=15.0.0"
-  checksum: d8c9e50aabdc2cfc324e5cdb0ad1c6eecb02e1c0cd007b26d5b30ccf49015e900683dd489348c71fba4055858308d9ba7019e0d37d0e8d37bd46ed098788f670
+    react: ">=16.6.0"
+    react-dom: ">=16.6.0"
+  checksum: 34605de2d46e5ff31b447dbd59d390f7ec932c18008ce2d784e91d1d01cf0b53070b06cd4d6277b7448a369905048b259154c81c7d7cb46ced5b8a624c457210
   languageName: node
   linkType: hard
 
@@ -12177,19 +12177,19 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"reactstrap@npm:8.10.0":
-  version: 8.10.0
-  resolution: "reactstrap@npm:8.10.0"
+"reactstrap@npm:8.10.1":
+  version: 8.10.1
+  resolution: "reactstrap@npm:8.10.1"
   dependencies:
     "@babel/runtime": ^7.12.5
     classnames: ^2.2.3
     prop-types: ^15.5.8
     react-popper: ^1.3.6
-    react-transition-group: ^2.3.1
+    react-transition-group: ^3.0.0
   peerDependencies:
     react: ">=16.3.0"
     react-dom: ">=16.3.0"
-  checksum: ac30cf2f0b6840fcf14c65fbe7e1af4c5038672d2558617ce5fbeb4668f18009d19cd1f6c88950fd6f61becea07b085855d2a5cb700562d00f0eaaa176722413
+  checksum: a91750df39158fe5c7a0b2b3517bcd2a7c10948777b2429bbac1f7167e66cfc4d7ec004c939206b40c7edaa28da430f43c286b0de178f9ad5a64eb228e0889c5
   languageName: node
   linkType: hard
 
