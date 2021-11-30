@@ -2520,7 +2520,7 @@ __metadata:
     is-wsl: 2.2.0
     jest: 27.2.0
     jest-environment-jsdom-fourteen: 1.0.1
-    jest-resolve: 27.4.0
+    jest-resolve: 27.4.1
     jest-watch-typeahead: 1.0.0
     joi: 17.4.2
     jquery: 3.6.0
@@ -9121,21 +9121,21 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"jest-resolve@npm:27.4.0":
-  version: 27.4.0
-  resolution: "jest-resolve@npm:27.4.0"
+"jest-resolve@npm:27.4.1":
+  version: 27.4.1
+  resolution: "jest-resolve@npm:27.4.1"
   dependencies:
-    "@jest/types": ^27.4.0
+    "@jest/types": ^27.4.1
     chalk: ^4.0.0
     graceful-fs: ^4.2.4
-    jest-haste-map: ^27.4.0
+    jest-haste-map: ^27.4.1
     jest-pnp-resolver: ^1.2.2
-    jest-util: ^27.4.0
-    jest-validate: ^27.4.0
+    jest-util: ^27.4.1
+    jest-validate: ^27.4.1
     resolve: ^1.20.0
     resolve.exports: ^1.1.0
     slash: ^3.0.0
-  checksum: 44159762857c4323e49e3762cfb624b7418dff0567f5e294e5c329fd5b8b91a9fcfaf90d92564c58f62ba272b349c0a62aa84268b77481fc224a371a6d7f341d
+  checksum: 9b8d2bf0753cd1266b218dd61b9ea4bffc8b7edd9d9e9ddef5ed1f3507258086e9f120b59dd9285ae330eee7a40253efbc783d349117726b9a4391a3d4177865
   languageName: node
   linkType: hard
 
@@ -9353,17 +9353,17 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"jest-validate@npm:^27.4.0":
-  version: 27.4.0
-  resolution: "jest-validate@npm:27.4.0"
+"jest-validate@npm:^27.4.1":
+  version: 27.4.1
+  resolution: "jest-validate@npm:27.4.1"
   dependencies:
-    "@jest/types": ^27.4.0
+    "@jest/types": ^27.4.1
     camelcase: ^6.2.0
     chalk: ^4.0.0
     jest-get-type: ^27.4.0
     leven: ^3.1.0
-    pretty-format: ^27.4.0
-  checksum: 4bf130a3f6373287fd83e274565304c8353320c74c3476bf18c7dd4446fa4f5a2eb36fb77a96a1334d2265731e19b08fdf07555c4b02ca63e64818e50a04f6f4
+    pretty-format: ^27.4.1
+  checksum: fdd4f0538cffc12565cda0006017647baab344aa247059e1a62dd4c37f4c9aa83c637264e0d1dbaeb517151b2f452f77554de350243f5db09f830750016009ac
   languageName: node
   linkType: hard
 
@@ -12175,15 +12175,15 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"pretty-format@npm:^27.4.0":
-  version: 27.4.0
-  resolution: "pretty-format@npm:27.4.0"
+"pretty-format@npm:^27.4.1":
+  version: 27.4.1
+  resolution: "pretty-format@npm:27.4.1"
   dependencies:
-    "@jest/types": ^27.4.0
+    "@jest/types": ^27.4.1
     ansi-regex: ^5.0.1
     ansi-styles: ^5.0.0
     react-is: ^17.0.1
-  checksum: fabea838da9f9afb8aeb801705610ddce9fb2c20259f98d1c7d35a8b79c5bed31bcad067df00abe8bca40216403111e0babdbad8c46d57ffd3c98eaf6d28a19c
+  checksum: d0d24c52194fe95aea5d162689762468d98e489a84c78c50b5d5aeca3fa25b4470cbc67db9acea748e6148313aa9890286f2d860351f214b6f3a4d43bc0000f0
   languageName: node
   linkType: hard
 
