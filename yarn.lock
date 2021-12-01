@@ -2458,19 +2458,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@jest/types@npm:^27.4.1":
-  version: 27.4.1
-  resolution: "@jest/types@npm:27.4.1"
-  dependencies:
-    "@types/istanbul-lib-coverage": ^2.0.0
-    "@types/istanbul-reports": ^3.0.0
-    "@types/node": "*"
-    "@types/yargs": ^16.0.0
-    chalk: ^4.0.0
-  checksum: d73a00d499d5858d1a74804c816832f9040e56bbc0c29b8f008826eea84c60039d29bcb49046440605d878b48c6d1c4d3ca3db71110dd9e7f8a716a3c8dc76fe
-  languageName: node
-  linkType: hard
-
 "@jest/types@npm:^27.4.2":
   version: 27.4.2
   resolution: "@jest/types@npm:27.4.2"
@@ -2522,7 +2509,7 @@ __metadata:
     jest-environment-jsdom-fourteen: 1.0.1
     jest-resolve: 27.4.2
     jest-watch-typeahead: 1.0.0
-    joi: 17.4.2
+    joi: 17.4.3
     jquery: 3.6.0
     mini-css-extract-plugin: 2.4.5
     optimize-css-assets-webpack-plugin: 6.0.1
@@ -2665,12 +2652,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sideway/address@npm:^4.1.0":
-  version: 4.1.1
-  resolution: "@sideway/address@npm:4.1.1"
+"@sideway/address@npm:^4.1.3":
+  version: 4.1.3
+  resolution: "@sideway/address@npm:4.1.3"
   dependencies:
     "@hapi/hoek": ^9.0.0
-  checksum: 0a86af89c12d19836ed1e57ad35db6f62711259ed02b2879c5ebac58abdc57e3cd1bffd89dd5c727e57015f13610d788d814ead7b1289c776b32706768daab45
+  checksum: 3c1faf6ef37a0b59b62ce42b59c012c00ef1fc4194ad6776c65c2f9a6dd6c1710c6f6362b3ca3fa582fdb93984f0cb64ca44f9f5e02940634805f5e561279c22
   languageName: node
   linkType: hard
 
@@ -8887,30 +8874,6 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"jest-haste-map@npm:^27.4.1":
-  version: 27.4.1
-  resolution: "jest-haste-map@npm:27.4.1"
-  dependencies:
-    "@jest/types": ^27.4.1
-    "@types/graceful-fs": ^4.1.2
-    "@types/node": "*"
-    anymatch: ^3.0.3
-    fb-watchman: ^2.0.0
-    fsevents: ^2.3.2
-    graceful-fs: ^4.2.4
-    jest-regex-util: ^27.4.0
-    jest-serializer: ^27.4.0
-    jest-util: ^27.4.1
-    jest-worker: ^27.4.1
-    micromatch: ^4.0.4
-    walker: ^1.0.7
-  dependenciesMeta:
-    fsevents:
-      optional: true
-  checksum: f6888d2349cf562b0c04711361dab119dbd1c8c7faab1102f15f0479888bb17c4f58929c7a4726d027fe037802a72965c0f983134ea2d5ec7dc08b1616cb8956
-  languageName: node
-  linkType: hard
-
 "jest-haste-map@npm:^27.4.2":
   version: 27.4.2
   resolution: "jest-haste-map@npm:27.4.2"
@@ -9311,20 +9274,6 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"jest-util@npm:^27.4.1":
-  version: 27.4.1
-  resolution: "jest-util@npm:27.4.1"
-  dependencies:
-    "@jest/types": ^27.4.1
-    "@types/node": "*"
-    chalk: ^4.0.0
-    ci-info: ^3.2.0
-    graceful-fs: ^4.2.4
-    picomatch: ^2.2.3
-  checksum: d574354f16e166d4ac0dc2d0ee33dcdeb8e9506c17d32fdddbf2dc7d61d90c16004d051780c7103134dd6977eac67bf38b4cd37637989cd32f1ec15ed6f998a6
-  languageName: node
-  linkType: hard
-
 "jest-util@npm:^27.4.2":
   version: 27.4.2
   resolution: "jest-util@npm:27.4.2"
@@ -9457,17 +9406,6 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"jest-worker@npm:^27.4.1":
-  version: 27.4.1
-  resolution: "jest-worker@npm:27.4.1"
-  dependencies:
-    "@types/node": "*"
-    merge-stream: ^2.0.0
-    supports-color: ^8.0.0
-  checksum: 9585d282753a8590075fbb0252073b7581a7fdd83737984dcc14a7d6958c9624fa501318cbbc95f13206539b742fda6894ffdce14afae493f05a0aaeff3887ef
-  languageName: node
-  linkType: hard
-
 "jest-worker@npm:^27.4.2":
   version: 27.4.2
   resolution: "jest-worker@npm:27.4.2"
@@ -9497,16 +9435,16 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"joi@npm:17.4.2":
-  version: 17.4.2
-  resolution: "joi@npm:17.4.2"
+"joi@npm:17.4.3":
+  version: 17.4.3
+  resolution: "joi@npm:17.4.3"
   dependencies:
     "@hapi/hoek": ^9.0.0
     "@hapi/topo": ^5.0.0
-    "@sideway/address": ^4.1.0
+    "@sideway/address": ^4.1.3
     "@sideway/formula": ^3.0.0
     "@sideway/pinpoint": ^2.0.0
-  checksum: 977ada1f9d38c2762689b61cec1272176968ccea731a16b71713ebaa067f140460e0b6f7eccff6fc12206fddce22e7f4ed74724651bc1b24b1e26d43280633d0
+  checksum: bde4bded6c4dda4b817f26071da6291aa4f294235877beda06d70a8de5b5432114990178b43d5a6d4f756747b225919319cebaa9e474656d13b710719af98c6f
   languageName: node
   linkType: hard
 
