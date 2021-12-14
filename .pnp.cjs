@@ -82,7 +82,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss-preset-env", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:7.0.1"],
             ["postcss-safe-parser", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.0"],
             ["react", "npm:17.0.2"],
-            ["react-app-polyfill", "npm:2.0.0"],
+            ["react-app-polyfill", "npm:3.0.0"],
             ["react-dev-utils", "npm:11.0.4"],
             ["react-dom", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:17.0.2"],
             ["reactstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:9.0.1"],
@@ -5064,7 +5064,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss-preset-env", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:7.0.1"],
             ["postcss-safe-parser", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.0"],
             ["react", "npm:17.0.2"],
-            ["react-app-polyfill", "npm:2.0.0"],
+            ["react-app-polyfill", "npm:3.0.0"],
             ["react-dev-utils", "npm:11.0.4"],
             ["react-dom", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:17.0.2"],
             ["reactstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:9.0.1"],
@@ -8249,10 +8249,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["core-js", [
-        ["npm:3.10.0", {
-          "packageLocation": "./.yarn/unplugged/core-js-npm-3.10.0-2088bcb2de/node_modules/core-js/",
+        ["npm:3.19.3", {
+          "packageLocation": "./.yarn/unplugged/core-js-npm-3.19.3-6f11d9f8bc/node_modules/core-js/",
           "packageDependencies": [
-            ["core-js", "npm:3.10.0"]
+            ["core-js", "npm:3.19.3"]
           ],
           "linkType": "HARD",
         }]
@@ -17204,15 +17204,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["react-app-polyfill", [
-        ["npm:2.0.0", {
-          "packageLocation": "./.yarn/cache/react-app-polyfill-npm-2.0.0-6c706ec28e-99e52a6b22.zip/node_modules/react-app-polyfill/",
+        ["npm:3.0.0", {
+          "packageLocation": "./.yarn/cache/react-app-polyfill-npm-3.0.0-e607e071bd-1bb031080a.zip/node_modules/react-app-polyfill/",
           "packageDependencies": [
-            ["react-app-polyfill", "npm:2.0.0"],
-            ["core-js", "npm:3.10.0"],
+            ["react-app-polyfill", "npm:3.0.0"],
+            ["core-js", "npm:3.19.3"],
             ["object-assign", "npm:4.1.1"],
             ["promise", "npm:8.1.0"],
             ["raf", "npm:3.4.1"],
-            ["regenerator-runtime", "npm:0.13.7"],
+            ["regenerator-runtime", "npm:0.13.9"],
             ["whatwg-fetch", "npm:3.6.2"]
           ],
           "linkType": "HARD",
@@ -17503,6 +17503,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/regenerator-runtime-npm-0.13.7-41bcbe64ea-52b66e6669.zip/node_modules/regenerator-runtime/",
           "packageDependencies": [
             ["regenerator-runtime", "npm:0.13.7"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:0.13.9", {
+          "packageLocation": "./.yarn/cache/regenerator-runtime-npm-0.13.9-6d02340eec-65ed455fe5.zip/node_modules/regenerator-runtime/",
+          "packageDependencies": [
+            ["regenerator-runtime", "npm:0.13.9"]
           ],
           "linkType": "HARD",
         }]
