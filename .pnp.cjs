@@ -71,7 +71,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-watch-typeahead", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:1.0.0"],
             ["joi", "npm:17.5.0"],
             ["jquery", "npm:3.6.0"],
-            ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.4.5"],
+            ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.4.6"],
             ["optimize-css-assets-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.1"],
             ["pnp-webpack-plugin", "npm:1.7.0"],
             ["popper.js", "npm:1.16.1"],
@@ -5043,7 +5043,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-watch-typeahead", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:1.0.0"],
             ["joi", "npm:17.5.0"],
             ["jquery", "npm:3.6.0"],
-            ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.4.5"],
+            ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.4.6"],
             ["optimize-css-assets-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.1"],
             ["pnp-webpack-plugin", "npm:1.7.0"],
             ["popper.js", "npm:1.16.1"],
@@ -12923,26 +12923,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:27.4.5", {
-          "packageLocation": "./.yarn/cache/jest-haste-map-npm-27.4.5-c0616c88ec-acd593ec33.zip/node_modules/jest-haste-map/",
-          "packageDependencies": [
-            ["jest-haste-map", "npm:27.4.5"],
-            ["@jest/types", "npm:27.4.2"],
-            ["@types/graceful-fs", "npm:4.1.5"],
-            ["@types/node", "npm:14.14.37"],
-            ["anymatch", "npm:3.1.1"],
-            ["fb-watchman", "npm:2.0.1"],
-            ["fsevents", "patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=1cc4b2"],
-            ["graceful-fs", "npm:4.2.8"],
-            ["jest-regex-util", "npm:27.4.0"],
-            ["jest-serializer", "npm:27.4.0"],
-            ["jest-util", "npm:27.4.2"],
-            ["jest-worker", "npm:27.4.5"],
-            ["micromatch", "npm:4.0.4"],
-            ["walker", "npm:1.0.7"]
-          ],
-          "linkType": "HARD",
-        }],
         ["npm:27.4.6", {
           "packageLocation": "./.yarn/cache/jest-haste-map-npm-27.4.6-6fdbdb8000-07a336e9db.zip/node_modules/jest-haste-map/",
           "packageDependencies": [
@@ -14355,17 +14335,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["mini-css-extract-plugin", [
-        ["npm:2.4.5", {
-          "packageLocation": "./.yarn/cache/mini-css-extract-plugin-npm-2.4.5-001e2b144b-09ad56ac33.zip/node_modules/mini-css-extract-plugin/",
+        ["npm:2.4.6", {
+          "packageLocation": "./.yarn/cache/mini-css-extract-plugin-npm-2.4.6-d5cca07486-7eb3dcbf1e.zip/node_modules/mini-css-extract-plugin/",
           "packageDependencies": [
-            ["mini-css-extract-plugin", "npm:2.4.5"]
+            ["mini-css-extract-plugin", "npm:2.4.6"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.4.5", {
-          "packageLocation": "./.yarn/__virtual__/mini-css-extract-plugin-virtual-f4e85a668d/0/cache/mini-css-extract-plugin-npm-2.4.5-001e2b144b-09ad56ac33.zip/node_modules/mini-css-extract-plugin/",
+        ["virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.4.6", {
+          "packageLocation": "./.yarn/__virtual__/mini-css-extract-plugin-virtual-34604c087e/0/cache/mini-css-extract-plugin-npm-2.4.6-d5cca07486-7eb3dcbf1e.zip/node_modules/mini-css-extract-plugin/",
           "packageDependencies": [
-            ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.4.5"],
+            ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.4.6"],
             ["@types/webpack", null],
             ["schema-utils", "npm:4.0.0"],
             ["webpack", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.65.0"]
