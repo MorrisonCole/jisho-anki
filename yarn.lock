@@ -2499,7 +2499,7 @@ __metadata:
     postcss-flexbugs-fixes: 5.0.2
     postcss-loader: 6.2.1
     postcss-normalize: 10.0.1
-    postcss-preset-env: 7.2.1
+    postcss-preset-env: 7.2.2
     postcss-safe-parser: 6.0.0
     react: 17.0.2
     react-app-polyfill: 3.0.0
@@ -11544,14 +11544,14 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"postcss-custom-properties@npm:^12.1.0":
-  version: 12.1.0
-  resolution: "postcss-custom-properties@npm:12.1.0"
+"postcss-custom-properties@npm:^12.1.2":
+  version: 12.1.2
+  resolution: "postcss-custom-properties@npm:12.1.2"
   dependencies:
     postcss-value-parser: ^4.2.0
   peerDependencies:
     postcss: ^8.3
-  checksum: dd179f6d286f9cb975b7667cb7ea22a31de7d301d06f8e2843250fafaf29e3a5d6eb3f1881d88774fb0abe6e632aa44a1159f87f94b315cd8d493f4f4fdb9d95
+  checksum: b73ea1028e4e90ca61edb5a412e5ab12bd5bcdfa7abd62b3034653ad9f745c6d6be40c7f2e7c0310fb4922b1c345f6f93ce0a7a46d0caf84771f85eb0bad4ce5
   languageName: node
   linkType: hard
 
@@ -11729,12 +11729,12 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"postcss-logical@npm:^5.0.2":
-  version: 5.0.2
-  resolution: "postcss-logical@npm:5.0.2"
+"postcss-logical@npm:^5.0.3":
+  version: 5.0.3
+  resolution: "postcss-logical@npm:5.0.3"
   peerDependencies:
     postcss: ^8.3
-  checksum: dfee654af3245def55938aad31bb6cb11b624a9e59148549bce3c90995176e7dceda0a5cfb28dd12e435a8161152cdcb5ac2731e865c1e683e772c8afccff5cf
+  checksum: e98fdd0637ce82cf7e9c39dc981bf91992e63db90a9b319ce135e5090ef19fe04ef24ba35ce60d456bb264580be66eb6383112cde4963c0c18d519d788d566d1
   languageName: node
   linkType: hard
 
@@ -12039,9 +12039,9 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"postcss-preset-env@npm:7.2.1":
-  version: 7.2.1
-  resolution: "postcss-preset-env@npm:7.2.1"
+"postcss-preset-env@npm:7.2.2":
+  version: 7.2.2
+  resolution: "postcss-preset-env@npm:7.2.2"
   dependencies:
     autoprefixer: ^10.4.2
     browserslist: ^4.19.1
@@ -12055,7 +12055,7 @@ fsevents@^1.2.7:
     postcss-color-hex-alpha: ^8.0.2
     postcss-color-rebeccapurple: ^7.0.2
     postcss-custom-media: ^8.0.0
-    postcss-custom-properties: ^12.1.0
+    postcss-custom-properties: ^12.1.2
     postcss-custom-selectors: ^6.0.0
     postcss-dir-pseudo-class: ^6.0.3
     postcss-double-position-gradients: ^3.0.4
@@ -12067,7 +12067,7 @@ fsevents@^1.2.7:
     postcss-image-set-function: ^4.0.4
     postcss-initial: ^4.0.1
     postcss-lab-function: ^4.0.3
-    postcss-logical: ^5.0.2
+    postcss-logical: ^5.0.3
     postcss-media-minmax: ^5.0.0
     postcss-nesting: ^10.1.2
     postcss-overflow-shorthand: ^3.0.2
@@ -12078,7 +12078,7 @@ fsevents@^1.2.7:
     postcss-selector-not: ^5.0.0
   peerDependencies:
     postcss: ^8.4
-  checksum: 6ee7b3f250ad09483c7e7709d479cbe12391bfe8c06ba6ce958951327c70f8754308544b7cba65ab3d806d1413f72c0899822ed7a1dc46989484d45755431a1a
+  checksum: 464889eb65e24f11321d2c97b5f351d6a84a0148ed49954dff242a40651b2dfceffc0ea00feff3fa062a1f736db16a0bb942a7df0e1540a4e488b17f7d308b42
   languageName: node
   linkType: hard
 
