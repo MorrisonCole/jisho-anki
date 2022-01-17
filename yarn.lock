@@ -2470,7 +2470,7 @@ __metadata:
     camelcase: 6.3.0
     case-sensitive-paths-webpack-plugin: 2.4.0
     css-loader: 6.5.1
-    dotenv: 14.0.1
+    dotenv: 14.1.0
     dotenv-expand: 5.1.0
     eslint: 8.7.0
     eslint-config-react-app: 6.0.0
@@ -6061,10 +6061,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dotenv@npm:14.0.1":
-  version: 14.0.1
-  resolution: "dotenv@npm:14.0.1"
-  checksum: 8eb0be58c8c3f5affe95341bb8553a7984ee327779312ef58af5a6fc88cb3b03b64ece1ad035d90eadd61381b83d8ef016c880982e7dd49f3ef352b5dcb89772
+"dotenv@npm:14.1.0":
+  version: 14.1.0
+  resolution: "dotenv@npm:14.1.0"
+  checksum: 9e7afe54688c6ddd270797766b1f51421cc1d38cce5a470750537d598cc1719e1b6effcb35022fccd949f2da701b5f186d4c0da44a72fb3a8bd1e2513159a9d2
   languageName: node
   linkType: hard
 
