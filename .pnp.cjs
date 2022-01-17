@@ -71,7 +71,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-watch-typeahead", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:1.0.0"],
             ["joi", "npm:17.5.0"],
             ["jquery", "npm:3.6.0"],
-            ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.5.0"],
+            ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.5.1"],
             ["optimize-css-assets-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.1"],
             ["pnp-webpack-plugin", "npm:1.7.0"],
             ["popper.js", "npm:1.16.1"],
@@ -5043,7 +5043,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-watch-typeahead", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:1.0.0"],
             ["joi", "npm:17.5.0"],
             ["jquery", "npm:3.6.0"],
-            ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.5.0"],
+            ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.5.1"],
             ["optimize-css-assets-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.1"],
             ["pnp-webpack-plugin", "npm:1.7.0"],
             ["popper.js", "npm:1.16.1"],
@@ -14334,17 +14334,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["mini-css-extract-plugin", [
-        ["npm:2.5.0", {
-          "packageLocation": "./.yarn/cache/mini-css-extract-plugin-npm-2.5.0-e74bfa4da3-7afb9a28da.zip/node_modules/mini-css-extract-plugin/",
+        ["npm:2.5.1", {
+          "packageLocation": "./.yarn/cache/mini-css-extract-plugin-npm-2.5.1-8695642ac4-4a351c2405.zip/node_modules/mini-css-extract-plugin/",
           "packageDependencies": [
-            ["mini-css-extract-plugin", "npm:2.5.0"]
+            ["mini-css-extract-plugin", "npm:2.5.1"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.5.0", {
-          "packageLocation": "./.yarn/__virtual__/mini-css-extract-plugin-virtual-cb9ac5083c/0/cache/mini-css-extract-plugin-npm-2.5.0-e74bfa4da3-7afb9a28da.zip/node_modules/mini-css-extract-plugin/",
+        ["virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.5.1", {
+          "packageLocation": "./.yarn/__virtual__/mini-css-extract-plugin-virtual-d4bd1395df/0/cache/mini-css-extract-plugin-npm-2.5.1-8695642ac4-4a351c2405.zip/node_modules/mini-css-extract-plugin/",
           "packageDependencies": [
-            ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.5.0"],
+            ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.5.1"],
             ["@types/webpack", null],
             ["schema-utils", "npm:4.0.0"],
             ["webpack", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.66.0"]
