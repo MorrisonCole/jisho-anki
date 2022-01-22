@@ -2563,7 +2563,7 @@ __metadata:
     react-dev-utils: 11.0.4
     react-dom: 17.0.2
     reactstrap: 9.0.1
-    resolve: 1.21.1
+    resolve: 1.22.0
     sass-loader: 12.4.0
     semver: 7.3.5
     style-loader: 3.3.1
@@ -8364,6 +8364,15 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
+"is-core-module@npm:^2.8.1":
+  version: 2.8.1
+  resolution: "is-core-module@npm:2.8.1"
+  dependencies:
+    has: ^1.0.3
+  checksum: 418b7bc10768a73c41c7ef497e293719604007f88934a6ffc5f7c78702791b8528102fb4c9e56d006d69361549b3d9519440214a74aefc7e0b79e5e4411d377f
+  languageName: node
+  linkType: hard
+
 "is-data-descriptor@npm:^0.1.4":
   version: 0.1.4
   resolution: "is-data-descriptor@npm:0.1.4"
@@ -12982,16 +12991,16 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-resolve@1.21.1:
-  version: 1.21.1
-  resolution: "resolve@npm:1.21.1"
+resolve@1.22.0:
+  version: 1.22.0
+  resolution: "resolve@npm:1.22.0"
   dependencies:
-    is-core-module: ^2.8.0
+    is-core-module: ^2.8.1
     path-parse: ^1.0.7
     supports-preserve-symlinks-flag: ^1.0.0
   bin:
     resolve: bin/resolve
-  checksum: 4703fbd6ddaebf7a7f7834ca29f5cfa2c64ef7988ac34bcd26148f0d017783d3a475936ffca02add1b9696e0d1db2a75210052c4b08e748e144e2886e575617c
+  checksum: a2d14cc437b3a23996f8c7367eee5c7cf8149c586b07ca2ae00e96581ce59455555a1190be9aa92154785cf9f2042646c200d0e00e0bbd2b8a995a93a0ed3e4e
   languageName: node
   linkType: hard
 
@@ -13015,16 +13024,16 @@ resolve@^2.0.0-next.3:
   languageName: node
   linkType: hard
 
-"resolve@patch:resolve@1.21.1#~builtin<compat/resolve>":
-  version: 1.21.1
-  resolution: "resolve@patch:resolve@npm%3A1.21.1#~builtin<compat/resolve>::version=1.21.1&hash=00b1ff"
+"resolve@patch:resolve@1.22.0#~builtin<compat/resolve>":
+  version: 1.22.0
+  resolution: "resolve@patch:resolve@npm%3A1.22.0#~builtin<compat/resolve>::version=1.22.0&hash=00b1ff"
   dependencies:
-    is-core-module: ^2.8.0
+    is-core-module: ^2.8.1
     path-parse: ^1.0.7
     supports-preserve-symlinks-flag: ^1.0.0
   bin:
     resolve: bin/resolve
-  checksum: abab8b2c73c3102c42fb15f1923c5f59f804197b93dc0346228c5fca81ea9ce8926f680d5554d1c9c85b904614211456cf17b35002aafb07a65019bcef70e393
+  checksum: b63b73ecbb7928e71c30e231f6adc380fca66bd5819a1b1324d3dcae573c726d9923df06eef3ac50be52b1dcea67272f3b6f12ba2e87ec8a9d3ebdf8454103bb
   languageName: node
   linkType: hard
 
