@@ -50,7 +50,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["camelcase", "npm:6.3.0"],
             ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],
             ["css-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.6.0"],
-            ["dotenv", "npm:15.0.0"],
+            ["dotenv", "npm:15.0.1"],
             ["dotenv-expand", "npm:6.0.1"],
             ["eslint", "npm:8.8.0"],
             ["eslint-config-react-app", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.0"],
@@ -5166,7 +5166,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["camelcase", "npm:6.3.0"],
             ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],
             ["css-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.6.0"],
-            ["dotenv", "npm:15.0.0"],
+            ["dotenv", "npm:15.0.1"],
             ["dotenv-expand", "npm:6.0.1"],
             ["eslint", "npm:8.8.0"],
             ["eslint-config-react-app", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.0"],
@@ -9590,10 +9590,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["dotenv", [
-        ["npm:15.0.0", {
-          "packageLocation": "./.yarn/cache/dotenv-npm-15.0.0-596676c735-be5d852b2a.zip/node_modules/dotenv/",
+        ["npm:15.0.1", {
+          "packageLocation": "./.yarn/cache/dotenv-npm-15.0.1-bf1659b577-acebaa5b0b.zip/node_modules/dotenv/",
           "packageDependencies": [
-            ["dotenv", "npm:15.0.0"]
+            ["dotenv", "npm:15.0.1"]
           ],
           "linkType": "HARD",
         }]
