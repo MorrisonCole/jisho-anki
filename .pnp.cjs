@@ -87,7 +87,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-dom", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:17.0.2"],
             ["reactstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:9.0.1"],
             ["resolve", "patch:resolve@npm%3A1.22.0#~builtin<compat/resolve>::version=1.22.0&hash=00b1ff"],
-            ["sass-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:12.4.0"],
+            ["sass-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:12.5.0"],
             ["semver", "npm:7.3.5"],
             ["style-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:3.3.1"],
             ["terser-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.3.1"],
@@ -5250,7 +5250,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-dom", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:17.0.2"],
             ["reactstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:9.0.1"],
             ["resolve", "patch:resolve@npm%3A1.22.0#~builtin<compat/resolve>::version=1.22.0&hash=00b1ff"],
-            ["sass-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:12.4.0"],
+            ["sass-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:12.5.0"],
             ["semver", "npm:7.3.5"],
             ["style-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:3.3.1"],
             ["terser-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.3.1"],
@@ -18401,35 +18401,39 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["sass-loader", [
-        ["npm:12.4.0", {
-          "packageLocation": "./.yarn/cache/sass-loader-npm-12.4.0-3d3847fd35-0f7ca3633e.zip/node_modules/sass-loader/",
+        ["npm:12.5.0", {
+          "packageLocation": "./.yarn/cache/sass-loader-npm-12.5.0-7b665b40a5-691c4e146c.zip/node_modules/sass-loader/",
           "packageDependencies": [
-            ["sass-loader", "npm:12.4.0"]
+            ["sass-loader", "npm:12.5.0"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:12.4.0", {
-          "packageLocation": "./.yarn/__virtual__/sass-loader-virtual-467f7dce00/0/cache/sass-loader-npm-12.4.0-3d3847fd35-0f7ca3633e.zip/node_modules/sass-loader/",
+        ["virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:12.5.0", {
+          "packageLocation": "./.yarn/__virtual__/sass-loader-virtual-341c2badac/0/cache/sass-loader-npm-12.5.0-7b665b40a5-691c4e146c.zip/node_modules/sass-loader/",
           "packageDependencies": [
-            ["sass-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:12.4.0"],
+            ["sass-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:12.5.0"],
             ["@types/fibers", null],
             ["@types/node-sass", null],
             ["@types/sass", null],
+            ["@types/sass-embedded", null],
             ["@types/webpack", null],
             ["fibers", null],
             ["klona", "npm:2.0.4"],
             ["neo-async", "npm:2.6.2"],
             ["node-sass", null],
             ["sass", null],
+            ["sass-embedded", null],
             ["webpack", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.68.0"]
           ],
           "packagePeers": [
             "@types/fibers",
             "@types/node-sass",
+            "@types/sass-embedded",
             "@types/sass",
             "@types/webpack",
             "fibers",
             "node-sass",
+            "sass-embedded",
             "sass",
             "webpack"
           ],
