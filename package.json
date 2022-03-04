@@ -17,7 +17,7 @@
     "browserslist": "4.19.3",
     "camelcase": "6.3.0",
     "case-sensitive-paths-webpack-plugin": "2.4.0",
-    "css-loader": "6.6.0",
+    "css-loader": "6.7.0",
     "dotenv": "15.0.1",
     "dotenv-expand": "8.0.1",
     "eslint": "8.10.0",
