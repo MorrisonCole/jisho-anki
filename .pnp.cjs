@@ -95,7 +95,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["url-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:4.1.1"],
             ["webpack", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.70.0"],
             ["webpack-dev-server", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:4.7.4"],
-            ["webpack-manifest-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:4.1.1"],
+            ["webpack-manifest-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.0.0"],
             ["workbox-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.5.1"]
           ],
           "linkType": "SOFT",
@@ -5393,7 +5393,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["url-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:4.1.1"],
             ["webpack", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.70.0"],
             ["webpack-dev-server", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:4.7.4"],
-            ["webpack-manifest-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:4.1.1"],
+            ["webpack-manifest-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.0.0"],
             ["workbox-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.5.1"]
           ],
           "linkType": "SOFT",
@@ -20746,17 +20746,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["webpack-manifest-plugin", [
-        ["npm:4.1.1", {
-          "packageLocation": "./.yarn/cache/webpack-manifest-plugin-npm-4.1.1-dd92074fdb-426982030d.zip/node_modules/webpack-manifest-plugin/",
+        ["npm:5.0.0", {
+          "packageLocation": "./.yarn/cache/webpack-manifest-plugin-npm-5.0.0-d9c03b2f9d-864d68f908.zip/node_modules/webpack-manifest-plugin/",
           "packageDependencies": [
-            ["webpack-manifest-plugin", "npm:4.1.1"]
+            ["webpack-manifest-plugin", "npm:5.0.0"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:4.1.1", {
-          "packageLocation": "./.yarn/__virtual__/webpack-manifest-plugin-virtual-8732c55c6c/0/cache/webpack-manifest-plugin-npm-4.1.1-dd92074fdb-426982030d.zip/node_modules/webpack-manifest-plugin/",
+        ["virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.0.0", {
+          "packageLocation": "./.yarn/__virtual__/webpack-manifest-plugin-virtual-fb93ee4096/0/cache/webpack-manifest-plugin-npm-5.0.0-d9c03b2f9d-864d68f908.zip/node_modules/webpack-manifest-plugin/",
           "packageDependencies": [
-            ["webpack-manifest-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:4.1.1"],
+            ["webpack-manifest-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.0.0"],
             ["@types/webpack", null],
             ["tapable", "npm:2.2.0"],
             ["webpack", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.70.0"],
