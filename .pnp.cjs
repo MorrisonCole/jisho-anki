@@ -51,7 +51,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],
             ["css-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.7.1"],
             ["dotenv", "npm:15.0.1"],
-            ["dotenv-expand", "npm:8.0.2"],
+            ["dotenv-expand", "npm:8.0.3"],
             ["eslint", "npm:8.11.0"],
             ["eslint-config-react-app", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.0"],
             ["eslint-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:4.0.2"],
@@ -5349,7 +5349,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],
             ["css-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.7.1"],
             ["dotenv", "npm:15.0.1"],
-            ["dotenv-expand", "npm:8.0.2"],
+            ["dotenv-expand", "npm:8.0.3"],
             ["eslint", "npm:8.11.0"],
             ["eslint-config-react-app", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.0"],
             ["eslint-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:4.0.2"],
@@ -9761,10 +9761,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["dotenv-expand", [
-        ["npm:8.0.2", {
-          "packageLocation": "./.yarn/cache/dotenv-expand-npm-8.0.2-3a9012d4c4-4b42b26024.zip/node_modules/dotenv-expand/",
+        ["npm:8.0.3", {
+          "packageLocation": "./.yarn/cache/dotenv-expand-npm-8.0.3-3f30d1947a-128ce90ac8.zip/node_modules/dotenv-expand/",
           "packageDependencies": [
-            ["dotenv-expand", "npm:8.0.2"]
+            ["dotenv-expand", "npm:8.0.3"]
           ],
           "linkType": "HARD",
         }]
