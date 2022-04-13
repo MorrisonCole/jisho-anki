@@ -2733,7 +2733,7 @@ __metadata:
     react-app-polyfill: 3.0.0
     react-dev-utils: 11.0.4
     react-dom: 17.0.2
-    reactstrap: 9.0.1
+    reactstrap: 9.0.2
     resolve: 1.22.0
     sass-loader: 12.6.0
     semver: 7.3.7
@@ -12755,9 +12755,9 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"reactstrap@npm:9.0.1":
-  version: 9.0.1
-  resolution: "reactstrap@npm:9.0.1"
+"reactstrap@npm:9.0.2":
+  version: 9.0.2
+  resolution: "reactstrap@npm:9.0.2"
   dependencies:
     "@babel/runtime": ^7.12.5
     "@popperjs/core": ^2.6.0
@@ -12768,7 +12768,7 @@ fsevents@^1.2.7:
   peerDependencies:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 95cb652a7c57ff522f81f096b170970b82df40c64a1114b38c0a0b287e07cb4d2f8596ca5866888bdb3b7b1635c74295c6e232109a5695ea46ad90b4bc1adaeb
+  checksum: c246b02cf9a653c9c2dde3257e85200061322e0769f9edb543de3137157aa948e0fdde884d3f96d80521830cb7b8940aabedbbcb00447c1a362da3dbc3dca2f9
   languageName: node
   linkType: hard
 
