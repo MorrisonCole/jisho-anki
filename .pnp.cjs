@@ -46,7 +46,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-named-asset-import", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:0.3.8"],
             ["babel-preset-react-app", "npm:10.0.0"],
             ["bootstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.1.3"],
-            ["browserslist", "npm:4.20.4"],
+            ["browserslist", "npm:4.21.0"],
             ["camelcase", "npm:7.0.0"],
             ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],
             ["css-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.7.1"],
@@ -5631,7 +5631,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-named-asset-import", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:0.3.8"],
             ["babel-preset-react-app", "npm:10.0.0"],
             ["bootstrap", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:5.1.3"],
-            ["browserslist", "npm:4.20.4"],
+            ["browserslist", "npm:4.21.0"],
             ["camelcase", "npm:7.0.0"],
             ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],
             ["css-loader", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.7.1"],
@@ -8357,15 +8357,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:4.20.4", {
-          "packageLocation": "./.yarn/cache/browserslist-npm-4.20.4-83094b88d8-0e56c42da7.zip/node_modules/browserslist/",
+        ["npm:4.21.0", {
+          "packageLocation": "./.yarn/cache/browserslist-npm-4.21.0-4a8a9b105c-dfad21090d.zip/node_modules/browserslist/",
           "packageDependencies": [
-            ["browserslist", "npm:4.20.4"],
-            ["caniuse-lite", "npm:1.0.30001349"],
-            ["electron-to-chromium", "npm:1.4.147"],
-            ["escalade", "npm:3.1.1"],
+            ["browserslist", "npm:4.21.0"],
+            ["caniuse-lite", "npm:1.0.30001358"],
+            ["electron-to-chromium", "npm:1.4.164"],
             ["node-releases", "npm:2.0.5"],
-            ["picocolors", "npm:1.0.0"]
+            ["update-browserslist-db", "virtual:4a8a9b105ce610732c027265551ce479422069b814ca943972f1fa93d703af9c4beaa1ecac4563541c3cd0ccb018f550b878f8262c9bb047838cda83d35550aa#npm:1.0.3"]
           ],
           "linkType": "HARD",
         }]
@@ -8555,10 +8554,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:1.0.30001349", {
-          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001349-e9826c4e3b-0095fcbb7c.zip/node_modules/caniuse-lite/",
+        ["npm:1.0.30001358", {
+          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001358-b6ce596c04-dd8d8e6b1f.zip/node_modules/caniuse-lite/",
           "packageDependencies": [
-            ["caniuse-lite", "npm:1.0.30001349"]
+            ["caniuse-lite", "npm:1.0.30001358"]
           ],
           "linkType": "HARD",
         }]
@@ -10118,10 +10117,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:1.4.147", {
-          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.147-009893b4f5-a714da8ac6.zip/node_modules/electron-to-chromium/",
+        ["npm:1.4.164", {
+          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.164-a98bf5a3f3-c26b674ddf.zip/node_modules/electron-to-chromium/",
           "packageDependencies": [
-            ["electron-to-chromium", "npm:1.4.147"]
+            ["electron-to-chromium", "npm:1.4.164"]
           ],
           "linkType": "HARD",
         }]
@@ -16171,7 +16170,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss-browser-comments", "virtual:4205a8e90899d6b3f4d2f3ffe3fe39068f6d0aa925441dfc0e72cac86160407c16aedf8def0467684110535652eefd9ccc8a46ed3a1c8a41162ad18e928fca6f#npm:4.0.0"],
             ["@types/browserslist", null],
             ["@types/postcss", null],
-            ["browserslist", "npm:4.20.4"],
+            ["browserslist", "npm:4.21.0"],
             ["postcss", "npm:8.3.6"]
           ],
           "packagePeers": [
@@ -17110,7 +17109,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@csstools/normalize.css", "npm:11.0.1"],
             ["@types/browserslist", null],
             ["@types/postcss", null],
-            ["browserslist", "npm:4.20.4"],
+            ["browserslist", "npm:4.21.0"],
             ["postcss", "npm:8.3.6"],
             ["postcss-browser-comments", "virtual:4205a8e90899d6b3f4d2f3ffe3fe39068f6d0aa925441dfc0e72cac86160407c16aedf8def0467684110535652eefd9ccc8a46ed3a1c8a41162ad18e928fca6f#npm:4.0.0"],
             ["sanitize.css", "npm:12.0.1"]
@@ -20621,6 +20620,30 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/upath-npm-1.2.0-ca00ec3398-4c05c09479.zip/node_modules/upath/",
           "packageDependencies": [
             ["upath", "npm:1.2.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["update-browserslist-db", [
+        ["npm:1.0.3", {
+          "packageLocation": "./.yarn/cache/update-browserslist-db-npm-1.0.3-bd3070ba88-7ffbb87405.zip/node_modules/update-browserslist-db/",
+          "packageDependencies": [
+            ["update-browserslist-db", "npm:1.0.3"]
+          ],
+          "linkType": "SOFT",
+        }],
+        ["virtual:4a8a9b105ce610732c027265551ce479422069b814ca943972f1fa93d703af9c4beaa1ecac4563541c3cd0ccb018f550b878f8262c9bb047838cda83d35550aa#npm:1.0.3", {
+          "packageLocation": "./.yarn/__virtual__/update-browserslist-db-virtual-2eaa34858c/0/cache/update-browserslist-db-npm-1.0.3-bd3070ba88-7ffbb87405.zip/node_modules/update-browserslist-db/",
+          "packageDependencies": [
+            ["update-browserslist-db", "virtual:4a8a9b105ce610732c027265551ce479422069b814ca943972f1fa93d703af9c4beaa1ecac4563541c3cd0ccb018f550b878f8262c9bb047838cda83d35550aa#npm:1.0.3"],
+            ["@types/browserslist", null],
+            ["browserslist", "npm:4.21.0"],
+            ["escalade", "npm:3.1.1"],
+            ["picocolors", "npm:1.0.0"]
+          ],
+          "packagePeers": [
+            "@types/browserslist",
+            "browserslist"
           ],
           "linkType": "HARD",
         }]
