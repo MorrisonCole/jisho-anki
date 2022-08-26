@@ -70,7 +70,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-resolve", "npm:28.1.3"],
             ["jest-watch-typeahead", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.1.1"],
             ["joi", "npm:17.6.0"],
-            ["jquery", "npm:3.6.0"],
+            ["jquery", "npm:3.6.1"],
             ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.6.1"],
             ["optimize-css-assets-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.1"],
             ["pnp-webpack-plugin", "npm:1.7.0"],
@@ -5787,7 +5787,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-resolve", "npm:28.1.3"],
             ["jest-watch-typeahead", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.1.1"],
             ["joi", "npm:17.6.0"],
-            ["jquery", "npm:3.6.0"],
+            ["jquery", "npm:3.6.1"],
             ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.6.1"],
             ["optimize-css-assets-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.1"],
             ["pnp-webpack-plugin", "npm:1.7.0"],
@@ -14432,10 +14432,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["jquery", [
-        ["npm:3.6.0", {
-          "packageLocation": "./.yarn/cache/jquery-npm-3.6.0-ca7872bdbb-8fd5fef4aa.zip/node_modules/jquery/",
+        ["npm:3.6.1", {
+          "packageLocation": "./.yarn/cache/jquery-npm-3.6.1-6f29087f48-6177d866a7.zip/node_modules/jquery/",
           "packageDependencies": [
-            ["jquery", "npm:3.6.0"]
+            ["jquery", "npm:3.6.1"]
           ],
           "linkType": "HARD",
         }]
