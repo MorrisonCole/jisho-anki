@@ -69,7 +69,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-environment-jsdom-fourteen", "npm:1.0.1"],
             ["jest-resolve", "npm:28.1.3"],
             ["jest-watch-typeahead", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.2.0"],
-            ["joi", "npm:17.6.2"],
+            ["joi", "npm:17.6.3"],
             ["jquery", "npm:3.6.1"],
             ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.6.1"],
             ["optimize-css-assets-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.1"],
@@ -5778,7 +5778,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-environment-jsdom-fourteen", "npm:1.0.1"],
             ["jest-resolve", "npm:28.1.3"],
             ["jest-watch-typeahead", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.2.0"],
-            ["joi", "npm:17.6.2"],
+            ["joi", "npm:17.6.3"],
             ["jquery", "npm:3.6.1"],
             ["mini-css-extract-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:2.6.1"],
             ["optimize-css-assets-webpack-plugin", "virtual:fccfc1d8bf7247c7add1bac5823ee168c58156ccf37611b1b141df4309ed8d2b6485b9e53fd82cc664b716a499276b60a27d5a017eceb4efa994dcf306c1ef4f#npm:6.0.1"],
@@ -14383,10 +14383,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["joi", [
-        ["npm:17.6.2", {
-          "packageLocation": "./.yarn/cache/joi-npm-17.6.2-6d088b8072-4a29330e0b.zip/node_modules/joi/",
+        ["npm:17.6.3", {
+          "packageLocation": "./.yarn/cache/joi-npm-17.6.3-2a8ba9150f-a4cd53a83e.zip/node_modules/joi/",
           "packageDependencies": [
-            ["joi", "npm:17.6.2"],
+            ["joi", "npm:17.6.3"],
             ["@hapi/hoek", "npm:9.1.1"],
             ["@hapi/topo", "npm:5.0.0"],
             ["@sideway/address", "npm:4.1.3"],
